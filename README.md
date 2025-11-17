@@ -1,7 +1,14 @@
 ## Hi there 👋
 
+#### GitHub stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=drmenzelit&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
+
+#### My Holopins
 [![An image of @drmenzelit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drmenzelit)](https://holopin.io/@drmenzelit)
 
+#### What I do
 - 🔭 I’m currently working on a [Joomla Book](https://github.com/JandBeyond/joomlabook) 
 
 <!--
