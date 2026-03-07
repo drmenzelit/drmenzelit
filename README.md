@@ -6,7 +6,7 @@
 </a>  
 
 #### My Holopins
-[![An image of @drmenzelit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/drmenzelit)](https://holopin.io/@drmenzelit)
+[![An image of @drmenzelit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/board?user=drmenzelit)](https://holopin.io/@drmenzelit)
 
 #### What I do
 - 🔭 I’m currently working on a [Joomla Book](https://github.com/JandBeyond/joomlabook) 
